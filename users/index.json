@@ -1,0 +1,14 @@
+{
+  "Manuel": {
+    "clave_maestra_hash": "$2b$12$fXWclwm95.F4SiPFllWWROX6jkNMi4T3Ea7ToBiy7a7JlDePOUMHq",
+    "salt": "dptbwfCxW0HfCA7agARuUA=="
+  },
+  "Antonio": {
+    "clave_maestra_hash": "$2b$12$ZIqzj9ifeEPVoc1YBc5J1.eDybiYC8LgcyXXQjqCCGNhxN6yw3tbm",
+    "salt": "f6qPwLc3VZASNaAZ09PtLA=="
+  },
+  "Pomelo": {
+    "clave_maestra_hash": "$2b$12$4mcmfSdvxgXwBpvgHWuwuOP/mBZCIjlZudDLXqkhf3eX3M1GVh9DK",
+    "salt": "I22FcmHLdbZQaYtFNlbINw=="
+  }
+}
